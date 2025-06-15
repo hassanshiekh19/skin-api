@@ -3,8 +3,4 @@ tensorflow
 numpy
 opencv-python-headless
 gunicorn
-<<<<<<< HEAD
 flask-cors
-=======
-flask-cors
->>>>>>> 3cef62ec861b4338dbd3c7cf4d8e25e2d5df42fc
